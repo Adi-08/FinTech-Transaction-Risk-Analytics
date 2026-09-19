@@ -81,6 +81,11 @@ The interactive dashboard includes:
 - Total Transaction Value: 16.45bn
 - Average Transaction Value: 29.91K
 
+
+## Dashboard Preview
+
+<img src="images/dashboard.png" alt="FinTech Transaction & Customer Risk Analytics Dashboard" width="100%">
+
 ## Project Structure 
 
 ```text
